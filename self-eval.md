@@ -1,5 +1,8 @@
 # Self-Evaluation
 
-- This final CFU encompassed everything you've learned in Mod 0, and maybe even required some learning outside of what you've explicitly been taught. How did it feel as you faced these challenges?
-- How is your workflow going, in terms of taking breaks, staying focused, etc.?
-- What did you learn from this exercise that you want to remember as you begin Mod 1?
+## This final CFU encompassed everything you've learned in Mod 0, and maybe even required some learning outside of what you've explicitly been taught. How did it feel as you faced these challenges?
+- I initially faced these before talking over with a partner to go over the lesson. When I looked at it on my own I was pretty overwhelmed and didn't know how I would get so many things to work inside one class. However, working through the Dino example in the lesson with a partner **really** helped. We were able to play around with the prompt and since we were working on it together it lessened my stress regarding the lesson exponentially. Based on what we learned together I was able to tackle these challenges much easier. The main thing I learned was how to call back the attributes within methods and if statements within the class. When I started the assignment, I was creating methods thawt weren't correctly connecting to the attributes and updating them. I'm pretty proud of the worrk so far. In looking over what I've done I feel there might be ways to consolidate my code, so I'm interested to hear and talk about this with the rest of the group to continue my learning.
+## How is your workflow going, in terms of taking breaks, staying focused, etc.?
+- Workflow is going better. I have a bad habbit of working too long because I genuinely like figuring these problems out, but eventually I get tired and am not as clear-headed, so working on taking more frequent breaks to assist with that issue.
+## What did you learn from this exercise that you want to remember as you begin Mod 1?
+- Working through some initial problems with other cohort mates is so helpfu. It was nice to talk about how we were both a bit confused and to validate that the lesson had a lot to learn and was a lot. I'm excited to continue working with partners through this process to increase my learning.
